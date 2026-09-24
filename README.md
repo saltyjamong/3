@@ -208,13 +208,11 @@
     <!-- =========================
          character introduction
     ========================== -->
-    /* =========================
-         CHARACTER INTRODUCTION
-    ========================== */
+    
     <section class="character-profile">
         <!-- 캐릭터 이름 -->
         <!-- CHARACTER INTRODUCTION -->
-        <h1>캐릭터 이름</h1>
+        <h1>CHARACTER INTRODUCTION</h1>
         <!-- 기본 정보 -->
         <div class="basic-info">
             <p>
