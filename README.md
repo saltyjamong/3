@@ -206,7 +206,7 @@
   
 <body>
     <!-- =========================
-         캐릭터 소개
+         character introduction
     ========================== -->
     <section class="character-profile">
         <!-- 캐릭터 이름 -->
