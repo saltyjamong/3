@@ -210,7 +210,7 @@
          CHARACTER INTRODUCTION
     ========================== */
 
-    <section id="CHARACTER INTRODUCTION" class="section">
+<section class="character-profile">
     
         <!-- 캐릭터 소개 -->
         <h1>CHARACTER INTRODUCTION</h1>
