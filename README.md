@@ -9,7 +9,6 @@
 <!-- 메뉴 -->
 <nav class="menu">
   <a href="#intro">INTRO</a>
-  <a href="#about">ABOUT</a>
   <a href="#relation">RELATION</a>
   <a href="#story">STORY</a>
 </nav>
@@ -19,13 +18,6 @@
 <section id="intro" class="section">
   <h1>INTRO</h1>
   <p>캐릭터의 기본적인 소개를 적는 공간입니다.</p>
-</section>
-
-
-<!-- ABOUT -->
-<section id="about" class="section">
-  <h1>ABOUT</h1>
-  <p>외형, 성격, 특징 등을 적는 공간입니다.</p>
 </section>
 
 
