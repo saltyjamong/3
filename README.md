@@ -11,6 +11,7 @@
   <a href="#intro">INTRO</a>
   <a href="#relation">RELATION</a>
   <a href="#story">STORY</a>
+  <a href="#story">CHARACTER INTRODUCTION</a>
 </nav>
 
 
@@ -209,8 +210,8 @@
          CHARACTER INTRODUCTION
     ========================== */
     <section class="character-profile">
-        <!-- CHARACTER INTRODUCTION -->
-        <h1>Character Introduction</h1>
+        <!-- 캐릭터 소개 -->
+        <h1>CHARACTER INTRODUCTION</h1>
         <!-- 기본 정보 -->
         <div class="basic-info">
             <p>
