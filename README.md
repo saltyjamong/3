@@ -210,7 +210,7 @@
     ========================== */
     <section class="character-profile">
         <!-- CHARACTER INTRODUCTION -->
-        <h1>캐릭터 이름</h1>
+        <h1>Character Introduction</h1>
         <!-- 기본 정보 -->
         <div class="basic-info">
             <p>
