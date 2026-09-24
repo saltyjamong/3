@@ -209,7 +209,9 @@
     /* =========================
          CHARACTER INTRODUCTION
     ========================== */
-    <section class="character-profile">
+
+    <section id="CHARACTER INTRODUCTION" class="section">
+    
         <!-- 캐릭터 소개 -->
         <h1>CHARACTER INTRODUCTION</h1>
         <!-- 기본 정보 -->
